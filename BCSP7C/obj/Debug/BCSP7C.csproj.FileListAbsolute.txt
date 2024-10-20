@@ -1,0 +1,13 @@
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\bin\Debug\BCSP7C.exe.config
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\bin\Debug\BCSP7C.exe
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\bin\Debug\BCSP7C.pdb
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.csproj.AssemblyReference.cache
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.frmCategory.resources
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.Properties.Resources.resources
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.csproj.GenerateResource.cache
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.csproj.CoreCompileInputs.cache
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.exe
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.pdb
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.FrmUnit.resources
+C:\Users\ACER BY COMCOM\source\repos\BCSP7C\BCSP7C\obj\Debug\BCSP7C.frmProduct.resources
